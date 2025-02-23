@@ -1,0 +1,21 @@
+2025-02-22 16:31:40,640 - User asked: what about cyphir ?
+2025-02-22 16:31:40,641 - Bot answered: Sorry, I couldn't find a good match.
+2025-02-22 16:32:07,805 - User asked: what about cypher
+2025-02-22 16:32:07,806 - Bot answered: Sorry, I couldn't find a good match.
+2025-02-22 16:32:18,356 - User asked: what rag?
+2025-02-22 16:32:18,357 - Bot answered: Sorry, I couldn't find a good match.
+2025-02-22 16:32:29,403 - User asked: what is rag ?
+2025-02-22 16:32:29,444 - Bot answered: A graph database uses graph structures for semantic queries with nodes, edges, and properties.
+2025-02-22 18:01:11,763 - User asked: how is rag
+2025-02-22 18:01:11,772 - Bot answered (Neo4j): A graph database uses graph structures for semantic queries with nodes, edges, and properties.
+2025-02-22 18:01:16,765 - User asked: why rag
+2025-02-22 18:08:41,164 - User asked: why rag
+2025-02-22 18:08:41,487 - error_code=invalid_api_key error_message='Incorrect API key provided: your_ope*******_key. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-02-22 18:17:52,706 - User asked: why rag
+2025-02-22 18:17:53,816 - error_code=model_not_found error_message='The model `text-davinci-003` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-02-22 18:53:36,434 - User asked: why rag
+2025-02-22 18:53:37,143 - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2025-02-22 18:54:43,006 - User asked: what is rag
+2025-02-22 18:54:43,016 - Bot answered (Neo4j): A graph database uses graph structures for semantic queries with nodes, edges, and properties.
+2025-02-22 18:54:47,239 - User asked: why rag
+2025-02-22 18:54:47,849 - error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
