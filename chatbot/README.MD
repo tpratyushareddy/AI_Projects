@@ -60,7 +60,4 @@ If you encounter issues:
 - Verify the OpenAI API key and check usage limits.
 - Install all required dependencies (`pip install -r requirements.txt`).
 
-## License
-
-This project is licensed under the MIT License.
 
