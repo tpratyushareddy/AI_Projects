@@ -1,0 +1,4 @@
+openai
+neo4j
+rapidfuzz
+python-dotenv
